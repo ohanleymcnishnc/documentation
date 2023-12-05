@@ -1,0 +1,613 @@
+Cambridge Journal of Regions, Economy and Society 00, 00, 0â0 Downloaded
+doi:10.1093/cjres/rsz022
+from
+The wrong kind of AI? Artificial intelligence and the
+https://academic.oup.com/cjres/advance-article-abstract/doi/10.1093/cjres/rsz022/5680462
+future of labour demand
+Daron Acemoglua and Pascual Restrepob
+aMIT, Cambridge, MA, USA, daron@mit.edu
+bBoston University, Boston, MA, USA, pascual@bu.edu
+Received on May 30, 2019; editorial decision on October 16, 2019; accepted on November 18, 2019
+Artificial intelligence (AI) is set to influence every aspect of our lives, not least the way pro-
+duction is organised. AI, as a technology platform, can automate tasks previously performed
+by labour or create new tasks and activities in which humans can be productively employed.
+Recent technological change has been biased towards automation, with insufficient focus
+on creating new tasks where labour can be productively employed. The consequences of
+this choice have been stagnating labour demand, declining labour share in national income,
+rising inequality and lowering productivity growth. The current tendency is to develop AI in
+the direction of further automation, but this might mean missing out on the promise of the
+ârightâ kind of AI, with better economic and social outcomes.
+Keywords: automation, artificial intelligence, jobs, inequality, innovation, labour demand,
+productivity, tasks, technology, wages
+JEL Classifications:J23, J24
+by
+Artificial intelligence (AI) is one of the most we can still shape the direction of AI research
+Bibliotheque
+promising technologies currently being de- and the future of work.
+veloped and deployed. Broadly speaking, AI
+refers to the study and development of âintel-
+AI as a technology platform
+ligent (machine) agentsâ, which are machines,
+interuniversitaire
+softwares or algorithms that act intelligently Human (or natural) intelligence comprises sev-
+by recognising and responding to their envir- eral different types of mental activities. These
+onment.1 There is a lot of excitement, some include simple computation, data processing,
+hype and a fair bit of apprehension about pattern recognition, prediction, various types of
+what AI will mean for our security, society problem solving, judgment, creativity, and com-
+de
+and economy. But a critical question has been munication. Early AI, pioneered in the 1950s by
+sante
+largely overlooked: are we investing in the researchers from computer science, psychology
+ârightâ type of AI, the kind with the greatest po- and economics, such as Marvin Minsky, Seymour user
+tential for raising productivity and generating Papert, John McCarthy, Herbert Simon and
+on
+broad-based prosperity? We do not have a de- Allen Newell, sought to develop machine intel-
+03
+finitive answer right nowânobody does. But ligence capable of performing all of these dif-
+January
+this is the right time to ask this question while ferent types of mental activities.2 The goal was
+2020
+Â© The Author(s) 2019. Published by Oxford University Press on behalf of the Cambridge Political Economy Society.
+All rights reserved. For permissions, please email: journals.permissions@oup.comDownloaded
+Acemoglu and Restrepo
+nothing short of creating truly intelligent ma- Even if we focus on its narrow version, AI from
+chines. Herbert Simon and Allen Newell, for should be thought of as a technology plat-
+https://academic.oup.com/cjres/advance-article-abstract/doi/10.1093/cjres/rsz022/5680462
+example, claimed in 1958 âthere are now in the formâthere are many ways AI technology can
+world machines that think, that learn and that be developed as a commercial or production
+create. Moreover, their ability to do these things technology, with widely varying applications.
+is going to increase rapidly untilâin a visible This matters greatly because it implies that the
+futureâthe range of problems they can handle economic and social consequences of AI tech-
+will be coextensive with the range to which the nologies are not preordained but depend on
+human mind has been applied.â3 how we decide to advance and build on this
+These ambitious goals were soon dashed. AI platform. To some degree, this is true of all clus-
+came back into fashion in the 1990s, but with ters of technologies, but it is more emphatically
+a different and more modest ambition: to rep- so for AI.4 To see this, contrast it with a related
+licate and then improve upon human intelli- but distinct new technology, robotics. Robotics
+gence in pattern recognition and prediction often makes use of AI and other digital tech-
+(pre-AI computers were already better than nologies for processing data, but is distin-
+humans in computation and data processing). guished from other digital technologies by its
+Many decision problems and activities we rou- focus on interacting with the physical world
+tinely engage in can be viewed as examples (moving around, transforming, rearranging or
+of pattern recognition and prediction. These joining objects). Industrial robots are already
+include recognising faces (from visual data), widespread in many manufacturing industries
+recognising speech (from auditory data), rec- and in some retail and wholesale establish-
+ognising abstract patterns in data we are pre- ments. But their economic use is quite specific,
+sented with, and making decisions on the and centres on automation of narrow tasks, that
+basis of past experience and current informa- is, substituting machines for certain specific ac-
+tion. Though there are researchers working on tivities and functions previously performed by
+âArtificial General Intelligenceâ, much of the humans.5
+research and almost all commercial applica-
+tions of AI are in these more modest domains
+Implications of technology for work
+referred to as âNarrow AIââeven if the rele-
+and labour by
+vant applications are numerous and varied. The Bibliotheque
+big breakthroughs and the renewed excitement How do new technologies impact the nature of
+in AI are coming from advances in hardware production and work? Employment and wages
+and algorithms that enable the processing and of different types of workers? The standard
+analysis of vast amounts of unstructured data approach, both in popular discussions and in interuniversitaire
+(for example, speech data that cannot be repre- academic writings, presumes that any advance
+sented in the usual structured ways, such as in that increases productivity (value added per
+simple, Excel-like databases). Central to this re- worker) also tends to raise the demand for
+naissance of AI have been methods of machine labour, and thus employment and wages. Of
+learning (which are the statistical techniques course, technological progress might lead to de
+that enable computers and algorithms to learn, job loss in some sectors. But even when that sante
+predict and perform tasks from large amounts happens, the standard narrative goes, other sec-
+of data without being explicitly programmed) tors will expand and contribute to overall em- user
+and what is called âdeep learningâ (algorithms ployment and wage growth. Moreover, even if
+on
+that use multi-layered programs, such as neural technological progress benefits some workers
+03
+nets, for improved machine learning, statistical more than others and increases inequality, the January
+inference and optimisation). standard approach still predicts that it will
+2020
+Page 2 of 11Downloaded
+The wrong kind of AI?
+tend to raise the labour demand for all types not reduce overall labour demand. A second from
+of workers.6 conclusion is that whether they reduce overall
+https://academic.oup.com/cjres/advance-article-abstract/doi/10.1093/cjres/rsz022/5680462
+This view is critically underpinned by the labour demand depends on the strength of the
+way in which the economic impact of new tech- productivity effect.
+nology is conceptualisedâas enabling labour This last observation has important implica-
+to become more productive in pretty much all tions: contrary to popular claims that the future
+of the activities and tasks that it performs. Yet, of labour is threatened by âbrilliantâ new tech-
+this not only lacks descriptive realism (what nologies, the greater danger for labour comes
+technology makes labour uniformly more pro- from technology that is not raising productivity
+ductive in everything?), but may paint an ex- sufficiently. In particular, if new automation
+cessively rosy picture of the implications of new technologies are not great but just âso-soâ (just
+technologies. Indeed, in such a world Ludditesâ good enough to be adopted but not so much
+concerns about the disruptive and job displacing more productive than the labour they are re-
+implications of technology would be misplaced, placing), there is a double jeopardy for labourâ
+and they would have smashed all of those ma- there is a displacement effect, taking passed
+chines in vain. away from labour, but no powerful productivity
+The reality of technological change is rather gains redressing some of the decline in labour
+different. Many new technologiesâthose we demand generated by the displacement effects.
+call automation technologiesâare not intended Is this far-fetched? Not really. We have previ-
+to increase labourâs productivity, but are ex- ously studied the implications of one of the most
+plicitly aimed at replacing it by substituting important automation technologies, industrial
+cheaper capital (machines) in a range of tasks robots.9 Industrial robots are not technologies
+performed by humans.7 As a result, automa- aimed at increasing labourâs productivity but
+tion technologies, by displacing workers from are designed to automate tasks that were previ-
+the tasks they were previously performing, al- ously performed by production workers on the
+ways reduce the labourâs share in value added. factory floor. The evidence is fairly clear that
+Put differently, these technologies raise prod- industries where more industrial robots are
+uctivity by more than wages and employment. introduced experience declines in labour de-
+They may even reduce overall labour demand mand (especially for production workers) and
+by
+(and thus reduce wages, employment or both). sizable falls in their labour share. More import- Bibliotheque
+Whether they reduce overall labour demand antly, local labour markets more exposed to in-
+turns on the strength of the productivity effect dustrial robots, such as Detroit MI or Defiance
+that they create compared with their direct OH, have significantly lower employment and
+displacement effect. The productivity effect is wage growth. Furthermore, the declines in interuniversitaire
+simple to understand: automation technologies wages and employment fell much more heavily
+typically reduce costs and as costs decline, firms on workers from the lower half of the earnings
+have an incentive to expand output, which in- distribution and those with less than a college
+creases the demand for labour coming from degree, thus exacerbating inequality. All of this
+non-automated tasks. Equally, lower costs for is despite the fact that industry-level data also de
+automated products increase the demand for suggest productivity gains from robots.10 sante
+other complementary products, still produced Automation in general and robots in par-
+with labour-intensive methods.8 ticular also increase inequality through two user
+A first conclusion from this conceptual distinct channels. First, by reducing the labour
+on
+framework is therefore that automation tech- share, automation increases the relative in-
+03
+nologies always reduce the labour share relative comes of capital owners who tend to be richer January
+to capital (and other factors), and may or may than those relying on labour income. Second,
+2020
+Page 3 of 11Downloaded
+Acemoglu and Restrepo
+currently automated tasks typically employ occupations but also a range of more specialised from
+low-skill or medium-skill workers, and declines blue-collar and white-collar jobs that increased
+https://academic.oup.com/cjres/advance-article-abstract/doi/10.1093/cjres/rsz022/5680462
+in their employment and wages tend to con- productivity, the demand for labour and the
+tribute to inequality. In the case of industrial labour share in manufacturing and services.14
+robots, both of these channels appear to have Occupations featuring new tasks have been at
+contributed to greater inequality.11 the forefront of employment growth in the US
+economy in the post-war era as well.15
+This perspective then suggests a different re-
+Automation and new tasks in history
+interpretation of the history of technology and
+Automation is not a recent phenomenon. Many a different way of thinking about the future of
+important breakthroughs in the history of tech- workâas a race between automation and new,
+nology have centred around automation. Most labour-intensive tasks. Labour demand has not
+notably, the spectacular advances in the early increased steadily over the last two centuries
+stages of the Industrial Revolution in Britain because of technologies that have made la-
+were aimed at automating weaving and spinning, bour more productive in everything. Rather,
+and the focus then shifted to the factory floors many new technologies have sought to elim-
+of other industries.12 Other prominent examples inate labour from tasks in which it previously
+of automation are the mechanisation of agri- specialised. All the same, labour has benefited
+culture and the interchangeable parts system of from advances in technology because other
+American manufacturing (for skilled workers). technologies have simultaneously enabled the
+But if automation tends to reduce the labour introduction of new labour-intensive tasks.
+share and has mixed effects on labour demand, These new tasks have done more than just re-
+why did the labour share remain roughly constant instate labour as a central input into the pro-
+and productivity growth go hand-in-hand with duction process; they have also played a vital
+commensurate wage growth over the last two role in productivity growth.
+centuries? To understand this relationship, we Viewed from this perspective, employment
+need to recognise different types of techno- and wage growth have been disappointing over
+logical advances contributing to productivity the last two decades partly because product-
+growth. Historically, as automation technologies ivity growth has been weak, and even more
+by
+were being introduced, other technological ad- importantly because new tasks have failed to Bibliotheque
+vances simultaneously reorganised production, materialise.16 The future of work will be much
+invented new products and created new tasks brighter if we can mobilise more of the tech-
+in which labour had a competitive advantage. nologies that increase labour demand and en-
+These developments generated new activities sure vigorous productivity growth. interuniversitaire
+for labourâtasks in which human labour could
+be reinstated into the production processâand
+Varieties of AI
+robustly contributed to productivity growth as
+new tasks improved the division of labour.13 The This perspective provides a new way of thinking
+episode of agricultural mechanisation, which about the economic opportunities and chal- de
+started in the second half of the 19th century, lenges posed by AI. Most AI researchers and sante
+vividly illustrates this pattern. Though mechan- economists studying its consequences view it as
+isation reduced the labour share and employ- a way of automating yet more tasks. No doubt, user
+ment in agriculture, overall labour demand rose AI has this capability, and most of its appli-
+on
+because a range of new tasks were introduced cations to date have been of this mouldâfor
+03
+in both manufacturing and services. In fact, this example, image recognition, speech recogni- January
+period witnessed not only the rise of clerical tion, translation, accounting, recommendation
+2020
+Page 4 of 11Downloaded
+The wrong kind of AI?
+systems and customer support. But we do not the core tasks in education. But using AI to from
+need to accept this as the primary way that AI create new tasks would be a different way of
+https://academic.oup.com/cjres/advance-article-abstract/doi/10.1093/cjres/rsz022/5680462
+can be and indeed ought to be used. productively deploying this new technology
+First, if all we do is continue down the path of platform. Consider, for example, classroom
+automation, with no counterbalancing innov- teaching. This has not changed for over
+ations to generate new tasks, the implications 200 years. A teacher teaches to the whole
+for employment, wages and inequality could be class, even if he or she or an aide may oc-
+depressing. It will not be the end of work any- casionally engage in one-on-one instruction
+time soon,17 but the trend towards lower labour or provide help for some subset of students.
+share, greater inequality and anaemic growth in There is evidence, however, suggesting that
+labour demand will continueâwith potentially many students have different âlearning
+disastrous consequences for income inequality stylesâ, and what works for one student may
+and social cohesion. not work for another, and even what works
+Second, as we go deeper and deeper into for one student in one subject will not work
+AI-based automation, we are moving into for him or her in every subject.18
+areas in which human labour is quite good (for At the moment, individualised teaching, tar-
+example think of image and speech recogni- geted and adapted to each student or for small
+tion or handâeye coordination), and machine subsets of students, is impossible, and not just
+productivity, at least to start with, is not always because the resources in terms of teacher time
+impressive, to say the least. Automation tech- and skill are lacking. It is mostly because nobody
+nologies aimed at substituting machines for hu- has (and cannot easily acquire and process the
+mans in these tasks are thus likely to be of the information) to determine a studentâs optimal
+so-so kind. As a result, we cannot even count on learning style in a specific subject or topic. AI
+powerful productivity gains to increase our living can change this. AI software can be designed
+standards and contribute to labour demand. to collect and process in real-time data about
+But it does not have to be this way. Since AI the specific reactions, difficulties and successes
+is not just a narrow set of technologies with students have in different subject areas, espe-
+specific, pre-determined applications and func- cially when taught in different styles, and then
+tionalities but a technology platform, it can be make recommendations for improved individu-
+by
+deployed for much more than automation; it can alised teaching. The potential improvements Bibliotheque
+be used to restructure the production process in in terms of educational productivity could be
+a way that creates many new, high-productivity quite large (we just do not know). Societal
+tasks for labour. If this type of âreinstating AIâ benefits could exceed these direct benefits as
+is a possibility, there would be potentially large AI-powered teaching methods may do better in interuniversitaire
+societal gains both in terms of improved prod- terms of providing students with skills that will
+uctivity and greater labour demand (which will be more valued in future labour markets (ra-
+not only create more inclusive growth but also ther than the more backward-looking curricula
+avoid the social problems spawned by jobless- and teaching emphasis currently prevailing in
+ness and wage declines). schools). Developing and deploying such tech- de
+Consider a few examples of how AI applica- nologies would increase the demand for human sante
+tions can create new tasks for labour. labour in teaching as wellâwe would need
+more teachers with diverse skills to do the in- user
+â¢ Education: Education is one of the areas dividualised teaching, even with help from AI on
+with the least AI penetration. That may software and other technologies. 03
+be partly because automation is not an at- â¢ Healthcare: The situation in healthcare January
+tractive or even feasible option for most of is similar. Though there has been more
+2020
+Page 5 of 11Downloaded
+Acemoglu and Restrepo
+effort to introduce digital technologies into contribute to productivity.19 from
+healthcare, the focus has not been on cre-
+https://academic.oup.com/cjres/advance-article-abstract/doi/10.1093/cjres/rsz022/5680462
+ating tasks in which humans can be product- Notably, the examples of new tasks men-
+ively employed (in fact, some of the uses of tioned above go well beyond what are some-
+AI, for example, in radiology, are very much times emphasised as âenablersâ of AIâhuman
+in the mould of automation). AI applications tasks involved in training and monitoring
+that collect and analyse information can sig- new machines as they automate what the rest
+nificantly empower nurses, technicians and of us do. This is critical; work in just enabling
+other healthcare providers to offer a wider AI is unlikely to generate sufficient new tasks
+range of services and more real-time health and demand for human labour to undergird
+advice, diagnosis and treatment. The bene- broad-based prosperity.
+fits in terms of greater labour demand and
+productivity are very similar to the educa-
+Why the wrong kind of AI?
+tion case.
+â¢ Augmented reality: The third area in which If there are potentially productive and profit-
+the use of AI can significantly change the able uses of AI beyond simple automation, can
+production process in a way that may be fa- we count on market forces and innovation by
+vourable to labour is through augmented and existing companies to take us there? Is there
+virtual-reality technologies in manufacturing. any reason to worry that AI applications with
+Most advanced manufacturing technologies the promise of reinstating human labour will
+of the last three decades have focussed on not be exploited and resources will continue to
+automation. But companies such as Amazon pour instead into the wrong kind of AI?
+and Tesla have discovered that automating Economists tend to place great trust in the
+all factory-floor and manual tasks is not marketâs ability to allocate resources in the
+economically rational because some tasks most efficient way. But most experts recognise
+are still more productively performed by that the marketâs star does not shine as brightly
+humans. One difficulty facing companies when it comes to innovation. There are sev-
+introducing industrial robots, however, is eral reasons for market failures in innovation
+that these new technologies do not neces- in general, as well as some specific reasons that
+by
+sarily integrate well with humans for at least are important in the context of AI. Bibliotheque
+two reasons. First, most robotics technology
+is cordoned off from workers because of â¢ Innovation creates externalitiesânot just
+safety concerns. Second, human work may the innovator, but also the workers who use
+not mesh with the degree of precision re- the new technology, the firms that adopt it interuniversitaire
+quired by robotics technology. Augmented and, most importantly, other firms and re-
+reality technologiesâwhich use interactive searchers building on it in the future will
+interfaces in order to increase the ability benefit from it. Markets do not do a good job
+of humans to perceive, monitor and con- in the presence of such externalities.
+trol objectsâmight enable workers to work â¢ Markets struggle when there are alternative, de
+alongside machines and perform high preci- competing technological paradigms. When sante
+sion production and integrated design tasks. one paradigm is ahead of the other, both re-
+This will not just help workers keep some searchers and companies tend to follow that user
+of the tasks that might have otherwise been paradigm, even if an alternative could be
+on
+automated; it could also create new tasks in more productive. Moreover, in such a situ-
+03
+which humans, augmented by digital tech- ation, once the wrong paradigm pulls ahead, January
+nology and sensors, can be employed and it may be very difficult to reverse this trend
+2020
+Page 6 of 11Downloaded
+The wrong kind of AI?
+and benefit from the possibilities offered by which are the source of most of the resources from
+the alternative paradigm. To the extent that going into AI, have focussed on automation
+https://academic.oup.com/cjres/advance-article-abstract/doi/10.1093/cjres/rsz022/5680462
+different approaches to AI constitute alter- and removing the (fallible) human element
+native, competing paradigms, our trust in the from the production process. This last con-
+market mechanism getting it right should be sideration may have become even more crit-
+even lower.20 ical as the vast resources of several leading
+â¢ To correct market failures in innovation, companies are pouring into academia and
+the US government has historically used shaping the teaching and research missions
+publicâprivate partnerships to encourage of leading universities. It is no surprise that
+socially beneficial research. It has played an the best minds in the current generation are
+important role in many leading technolo- gravitating towards computer science, AI
+gies, including the Internet, sensors, phar- and machine learning, but with a heavy em-
+maceuticals, biotech and nanotechnology.21 phasis on automation. An ecosystem that is
+But more recently, the US government has biased would become much more stifling for
+been more frugal in its support for research the direction of technological change when
+and more timid in its determination to steer it becomes all-encompassing.
+the direction of technological change. Part of â¢ There are also additional factors that may
+this shift is due to the reduction in resources have distorted choices over what types of
+devoted to government support of innov- AI applications to develop. The first one
+ation and the increasingly dominant role is that if employment creation has a social
+of the private sector in setting the agenda value beyond what is in the GDP statistics
+in high-tech areas (can government offi- (for instance, because employed people
+cials and researchers meaningfully influence are happier and become better citizens, or
+the direction of inventive activity in Silicon because broad-based growth in labour de-
+Valley?). This shift will further discourage mand improves income inequality), this so-
+research related to future promise (that is cial value will be ignored by the market. The
+not immediately reflected in profitability) second is related to the tax policies adopted
+and other social objectives (such as reducing in the United States and other Western na-
+carbon emissions or, more relevant to this tions, which subsidise capital and invest-
+by
+essay, the creation of employment opportun- ment while taxing employment. This makes Bibliotheque
+ities for a broad range of workers). using machines instead of labour more prof-
+â¢ Innovation does not just respond to economic itable, and these profits encourage not just
+incentives. Several noneconomic rewards af- automation but also automation research.
+fect what types of technologies attract the at- Finally, and complementing these factors, to interuniversitaire
+tention and imagination of researchers. It is the extent that firms take into account the
+possible that the ecosystem around the most cost of labour (the wage rate), which tends
+creative clusters in the United States, such as to be higher than the social opportunity cost
+Silicon Valley, excessively rewards automa- of labour because of imperfections in the
+tion and pays insufficient attention to other labour market, they will have additional in- de
+uses of frontier technologies. This may be centives for adopting and developing auto- sante
+partly because of the values and interests of mation technologies beyond what is socially
+leading researchers (consider, for example, optimal. user
+the ethos of companies like Tesla that have â¢ Another set of factors blocking the path
+on
+ceaselessly tried to automate everything). It of novel AI applications reinstating labour
+03
+is also partly because the prevailing business is that these new technologies might need January
+model and vision of the large tech companies, critical complementary inputs that are not
+2020
+Page 7 of 11Downloaded
+Acemoglu and Restrepo
+forthcoming. Take the example of educa- Rather than undergirding productivity growth, from
+tion mentioned above. It is not only that employment and shared prosperity, rampant
+https://academic.oup.com/cjres/advance-article-abstract/doi/10.1093/cjres/rsz022/5680462
+developing AI to create new labour-intensive automation would contribute to joblessness,
+tasks in education is not viewed the frontier anaemic growth and inequality.
+or one of the âcoolâ areas of research, say
+compared with facial recognition. It is also
+Social causes and implications of
+that complementary skills and resources to
+the wrong kind of AI
+make this type of reinstating AI profitable
+may be missing completely. Educational ap- Much has been written about the dangers that
+plications of AI would necessitate new, more unregulated AI may pose in the hands of com-
+flexible skills from teachers (beyond what is panies or governments intent on monitoring
+available and what is being invested in now), and controlling behaviour or independence
+and they would need additional resources to of actors wishing to spread disinformation.22
+hire more teachers to work with these new Without taking away from the importance
+AI technologies (after all, that is the point of of these issues, this essay highlights other so-
+the new technology, to create new tasks and cial aspects of this new set of technologies. We
+additional demand for teachers). In the case have already emphasised the negative social
+of healthcare, limited resources are not the implications of automation in general and the
+problem (the share of national income de- wrong kind of AI focussing just on automating
+voted to health is continuing to grow), but the labour-intensive tasks because they tend to
+requisite complementary changes are likely create loss of employment, wage declines or
+to be organisational. In fact, highlighting stagnation and greater inequality.
+other barriers to the use of new technologies These effects would become even more costly
+to create new tasks, the way that hospitals, to the extent that loss of employment oppor-
+insurance companies and the whole medical tunities, stagnant wages and rising inequality
+profession, as represented by the American have adverse political implications. These im-
+Medical Association, is organised is likely to plications could include both mounting popular
+be in the way. If empowering, and increasing discontent that can sometimes fan the flames of
+the productivity of, nurses and technicians disruptive populist movements,23 and growing by
+is perceived to reduce the demand for the economic dominance of certain individuals, Bibliotheque
+services of doctors or challenge the current corporations or segments of the business world,
+business model of hospitals, it will be strenu- who can then gain disproportionate political
+ously resisted. influence or even political dominance.24 These
+political costs may need to be included in interuniversitaire
+All in all, even though we currently lack de- evaluating the broader desirability of different
+finitive evidence that research and corporate types of AI practices and policies.
+resources today are being excessively directed The wrong kind of AI does not just have pol-
+towards the âwrongâ kind of AI, the market itical implications, but its continued dominance
+for innovation gives no compelling reason to may have political causes as well. The wrong de
+expect an efficient balance between different kind of AI, primarily focussing on automation, sante
+types of AI. If at this critical juncture insuffi- tends to generate benefits for a narrow part
+user
+cient attention is devoted to inventing and cre- of society that is already rich and politically
+ating demand for, rather than just replacing, powerful, including highly skilled professionals on
+labour, that would be the âwrongâ kind of AI and companies whose business model is centred 03
+from the social and economic point of view. on automation and data. If so, the influence of January
+2020
+Page 8 of 11Downloaded
+The wrong kind of AI?
+these actors may further propagate the dom- 5 See Ayres and Miller (1983), Groover et al. (1986), from
+inant position of this type of AI. For example, Graetz and Michaels (2015) and Acemoglu and
+https://academic.oup.com/cjres/advance-article-abstract/doi/10.1093/cjres/rsz022/5680462
+corporations that reckon that their own market Restrepo (2018b).
+position and profits will be best served by AI 6 See Acemoglu (2002).
+targeted at large-scale automation and would be 7 This approach is developed in Zeira (1998), Autor,
+hurt by new AI technologies creating new tasks, Levy and Murnane (2003), Acemoglu and Autor
+wage growth and opportunities for competing (2011) and Acemoglu and Restrepo (2018a,b,c,
+firms may naturally lend their research and pol- 2019).
+itical weight towards AI targeting automation. 8 One intuition for why the productivity effect, how-
+Whether this political channel has had any effect ever large, can never restore the labour share back to
+so far and may play more of a role in the future its pre-automation level is that displaced workers are
+in the path of AI technologies is an interesting deployed in non-automated tasks, which runs into
+and important area for future inquiry. diminishing returns (see Acemoglu and Restrepo,
+2018a, 2019).
+9 Acemoglu and Restrepo (2018b).
+Conclusion
+10 Our conceptual framework implies that the ef-
+AI is set to influence every aspect of our lives, fects of automation technologies on employment
+not least the way production is organised in and wages will not be uniform across different
+instances of their adoption or across distinct
+modern economies. But we should not assume
+types of technologies. Robots may create larger
+that, left to its own devices, the right types of AI
+displacement effects than other automation
+will be developed and implemented. Though
+technologies, and the same robotic technology
+many today worry about the security risks and
+in disparate social and economic settings may
+other unforeseen (often non-economic) conse-
+generate differently sized productivity effects.
+quences of AI, we have argued that there are Indeed, studies focussing on other periods and
+prima facie reasons for worrying about the using different sources of empirical variation find
+wrong kind of AI, from an economic point of similar declines in labour share from automation,
+view, becoming all the rage and the basis of but not always negative effects on employment.
+future technological development. The con- See, for example, Graetz and Michaels (2019),
+siderable promise of AI implies that we need who exploited cross-country, cross-industry vari- by
+ation, and Dauth et al. (2019), who use the same
+to devote care and serious thought to its im- Bibliotheque
+strategy as Acemoglu and Restrepo (2018b) but in
+plications and to the question of how best to
+Germany rather than in the United States.
+develop this promising technology platformâ
+11 See Acemoglu and Restrepo (2018b).
+before it is too late.
+12 See Mantoux (1927) and Mokyr (1992). interuniversitaire
+13 Some new technologies also contribute to the
+Endnote
+productivity of labour directly. Though it is diffi-
+1 See Russell and Norvig (2009), Neapolitan and Jiang cult to systematically decompose the contributions
+(2018) and Agarwal, Gans and Goldfarb (2018). of directly âlabour-augmentingâ technologies and
+new tasks (broadly construed to include new activ-
+2 See Nilsson (2009) for the history of AI. de
+ities for labour resulting from product innovation
+sante
+3 Forester (1985, 86). and reorganisations), there are two arguments for
+4 Bessen et al. (2018) report that many commer- the importance of new tasks. First, Acemoglu and
+user
+cial AI startups view their technology as capable of Restrepo (2019) provide a decomposition sug-
+âenhancing human capabilitiesâ, while many others gesting that labour-augmenting technologies have on
+recognise that their technologies have a significant played a relatively minor role in the US economy 03
+automation component. since 1947. This is both because of empirical reasons January
+2020
+Page 9 of 11Downloaded
+Acemoglu and Restrepo
+(related to changes in industry labour shares) and References from
+also because such technologies impact the la-
+Acemoglu, D. (2002) Technical change, inequality, https://academic.oup.com/cjres/advance-article-abstract/doi/10.1093/cjres/rsz022/5680462
+bour share only indirectly (working via the elas-
+and the labor market, Journal of Economic
+ticity of substitution between capital and labour). Literature, 40: 7â72.
+Second, the conceptual framework in Acemoglu Acemoglu, D. (2012) Diversity and technological
+and Restrepo (2018a, 2019) clarifies that the rela- progress. In The Rate and Direction of Inventive
+tive standing of labour cannot be reinstated just by Activity Revisited, pp. 319â360. University of
+labour-augmenting advances and instead necessi- Chicago Press.
+tates the creation of new tasks where labour has a Acemoglu, D. and Autor, D. (2011) Skills, tasks
+and technologies: implications for employment
+comparative advantage relative to capital.
+and earnings, Handbook of Labor Economics, 4:
+14 Rasmussen (1982), Olmstead and Rhode (2001) 1043â1171.
+and Acemoglu and Restrepo (2019). Acemoglu, D. and Robinson, J. (2012) Why Nations
+15 Acemoglu and Restrepo (2018a). Fail: The Origins of Power, Prosperity, and Poverty.
+New York, NY: Crown Busi.
+16 Acemoglu and Restrepo (2019).
+Acemoglu, D. and Restrepo, P. (2018a) The race
+17 See Dreyfus (1992) and Autor (2015). between man and machine: implications of tech-
+nology for growth, factor shares and employment,
+18 See Allport (1937), Cassidy (2004), Honey and
+American Economic Review, 108: 1488â1542.
+Mumford (1986) and Ramirez and Casteneda (1974).
+Acemoglu, D. and Restrepo, P. (2018b) Robots and
+For recent evidence based on randomised control
+jobs: evidence from US labor markets, Journal of
+trials consistent with these ideas, see Muralidharan, Political Economy, doi:10.3386/w23285
+Singh and Ganimian (2019). Acemoglu, D. and Restrepo, P. (2018c) Modeling
+19 See Ong and Nee (2013), Kellner (2018) and https:// automation, AEA Papers & Proceedings, 108:
+48â53.
+www.ge.com/reports/game-augmented-reality-
+Acemoglu, D. and Restrepo, P. (2018d) Artificial
+helping-factory-workers-become-productive/.
+intelligence, automation and work. In The
+20 See Nelson and Winter (1977), Dosi (1982) and Economics of Artificial Intelligence: An Agenda,
+Acemoglu (2012). pp. 197â236. National Bureau of Economic
+Research, Inc.
+21 Mazzucato (2015).
+Acemoglu, D. and Restrepo, P. (2019) Automation
+22 See, for example, Harari (2018), Lanier (2018), and new tasks: how technology changes labor de-
+Pasquale (2015) and Zuboff (2019). mand, Journal of Economic Perspectives, 33: 3â30.
+23 See Judis (2016) on the effects of economic hard- Agarwal, A., Gans J. S. and Goldfarb, J. S. (2018) by
+Prediction Machines: The Simple Economics of
+ship and inequality on populism. Bibliotheque
+Artificial Intelligence. Cambridge MA: Harvard
+24 See, for example, Acemoglu and Robinson (2012) Business Review.
+and Stiglitz (2012) on the political implications of Allport, G. W. (1937) Personality: A Psychological
+economic inequality. Interpretation. Holt and Co.
+Autor, D. H. (2015) Why are there still so many jobs? interuniversitaire
+The history and future of workplace automation,
+Acknowledgements Journal of Economic Perspectives, 29: 3â30.
+Autor, D. H., Levy, S. M. and Murnane, R. J. (2003)
+We thank Chris Ackerman, David Autor, Erik The skill content of recent technological change:
+Brynjolfsson, Stu Feldman, Mike Piore, Jim an empirical exploration, The Quarterly Journal of
+Poterba, Hal Varian and two referees and the edi- Economics, 118: 1279â1333. de
+Ayres, R. U. and Miller, S. M. (1983) Robots: tors of the journal for useful comments. We grate- sante
+Applications and Social Implications. Ballinger
+fully acknowledge financial support from Google,
+Publishing Co.
+Microsoft, the Sloan Foundation, the Toulouse user
+Bessen, J. E., Impink S. M., Reichensperger, L. and
+Network on Information Technology, the Schmidt
+Seamans, S. M. (2018) The Business of AI Startups. on
+Sciences Foundation, the Smith Richardson BU School of Law, Law & Economics Series
+03
+Foundation, IBM, Accenture and the National Paper No. 18-28. Available at: https://ssrn.com/
+January
+Science Foundation. abstract=32932.
+2020
+Page 10 of 11Downloaded
+The wrong kind of AI?
+Cassidy, S. (2004) Learning styles: an overview Mazzucato, M. (2015) The Entrepreneurial State. from
+of theories, models, and measures, Educational Anthem Press.
+Psychology, 24: 419â444. Mokyr, J. (1992) The Lever of Riches: Technological https://academic.oup.com/cjres/advance-article-abstract/doi/10.1093/cjres/rsz022/5680462
+Dauth, W., Findeisen, S., SÃ¼dekum, J. and Creativity and Economic Progress. Oxford
+Woessner, N. (2019) German RobotsâThe Impact University Press.
+of Industrial Robots on Workers. Institute for Muralidharan, K, Singh, A. and Ganimian, A. J.
+Employment Research Discussion Paper. (2019) Disrupting education? Experimental evi-
+Dosi, G. (1982) Technology paradigms and techno- dence on technology-aided instruction in India,
+logical trajectories, Research Policy, 11: 147â162. American Economic Review, 109: 1426â1460.
+Dreyfus, H. L. (1992) What Computers Still Canât Do: Neapolitan, R. E. and Jiang, X. (2018) Artificial
+A Critique of Artificial Reason. MIT Press. Intelligence: With an Introduction to Machine
+Forester, T. (1985) The Information Technology Learning, 2nd edn. Chapman and Hall/CRC.
+Revolution. Cambridge, MA: MIT Press. Nelson, R. and Sidney, W. (1977) In search of useful
+Graetz, G. and Michaels, G. (2018) Robots at work, theory of innovation, Research Policy, 6: 36â76.
+The Review of Economics and Statistics, 100: Nilsson, N. J. (2009) The Quest for Artificial
+753â768. Intelligence: A History of Ideas and Achievements.
+Groover, M. P., Weiss, M., Nagel, R. N. and New York, NY: Cambridge University Press.
+Odrey, N. G. (1986) Industrial Robotics: Technology, Olmstead, A. and Rhode P. (2001) Reshaping the
+Programming, and Applications. McGraw-Hill. landscape: the impact and diffusion of the tractor
+Harari, Y. N. (2018) 21 Lessons for the 21st Century. in American agriculture, 1910â1960, The Journal
+Spiegel & Grau. of Economic History, 61: 663â698.
+Honey, P. and Mumford, A. (1986) The Manual of Ong, S. K. and Nee A. Y. C. (2013) Virtual and
+Learning Styles. Peter Honey Associates. Augmented Reality Applications in Manufacturing.
+Judis, J. B. (2016) The Populist Explosion: How New York, NY: Springer Science and Business
+the Great Recession Transformed American and Media.
+European Politics. New York, NY: Columbia Pasquale, F. (2015) The Black Box Society: The Secret
+Global Reports. Algorithms that Control Money and Information.
+Kellner, T. (2018) Game On: Augmented Reality Is Cambridge, MA: Harvard University Press.
+Helping Factory Workers Become More Productive. Rasmussen, W. (1982) The mechanization of agricul-
+Available at: https://www.ge.com/reports/game- ture, Scientific American, 247: 76â89.
+augmented-reality-helping-factory-workers- Russell, S. J. and Norvig, P. (2009) Artificial
+become-productive/ [Accessed 19 April 2018]. Intelligence: A Modern Approach, 3rd edn.
+Lanier, J. (2018) Ten Arguments for Deleting Your Prentice-Hall.
+Social Media Accounts Right Now. New York, NY: Stiglitz, J. (2012) The Price of Inequality: How
+Hoffmann and C. Todayâs Divided Society Endangers Our Future. W. by
+Mantoux, P. (1927) The Industrial Revolution in the W. Norton & Company. Bibliotheque
+Eighteenth Century: An Outline of the Beginnings Zeira, J. (1998) Workers, machines, and economic
+of the Modern Factory System in England. London, growth, Quarterly Journal of Economics, 113:
+UK: Harcourt. 1091â1117.
+Manuel, R. and Castaá¹eda, A. (1974) Cultural Zuboff, S. (2019) The Age of Surveillance Capitalism:
+interuniversitaire
+Democracy, Bicognitive Development, and The Fight for a Human Future at the New Frontier
+Education. Academic Press. of Power. Public Affairs.
+de
+sante
+user
+on
+03
+January
+2020
+Page 11 of 11
