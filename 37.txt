@@ -15,8 +15,6 @@ readiness increases the probability of successful AI adop-
 tionandisimportanttosuccessfullyleverageAIâsbusiness Keywords Artificial intelligence (cid:2) AI adoption (cid:2) AI
 value.Thus,companiesneedtoassesswhethertheirassets, readiness(cid:2)Organizationalreadinessassessment(cid:2)Interview
 capabilities, and commitment are ready for the individual study
-AI adoption purpose. Research on AI readiness and AI
-adoption is still in its infancy. Consequently, researchers
 andpractitionerslackguidance onthe adoptionofAI.The 1 Introduction
 paper presents five categories of AI readiness factors and
 their illustrative actionable indicators. The AI readiness Artificial intelligence(AI) is ageneral-purpose technology
