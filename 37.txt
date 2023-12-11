@@ -55,7 +55,6 @@ Research on AI adoption can draw on the two estab-
 WhatfactorsconstituteorganizationalAIreadinessto
 lished literature streams of innovation adoption and tech-
 guide the AI adoption process?
-nologyadoptionon the organizational level (e.g., Chwelos
 etal.2001;DamanpourandSchneider2006;Hameedetal. Weconductanin-depthinterviewstudyandcollectdata
 2012). Prior work on innovation adoption has focused on from25AIexpertstoconceptualizerelevantfactorsforan
 the adoption process (Hameed et al. 2012), different organizationâs AI readiness assessment (Schultze and
