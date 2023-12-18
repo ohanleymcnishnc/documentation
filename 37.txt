@@ -4,7 +4,6 @@ RESEARCH PAPER
 Ready or Not, AI Comesâ An Interview Study of Organizational
 AI Readiness Factors
 Jan JoÂ¨hnk â¢ Malte WeiÃert â¢ Katrin Wyrtki
-(cid:2)TheAuthor(s)2020
 Abstract Artificial intelligence (AI) offers organizations correspondingindicatorsforAIreadinessassessments,and
 much potential. Considering the manifold application discussesthegeneralimplicationsforAIadoption.Thisisa
 areas, AIâs inherent complexity, and new organizational firststeptowardconceptualizingrelevantorganizationalAI
