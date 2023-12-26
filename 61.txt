@@ -1,6 +1,5 @@
 Cambridge Journal of Regions, Economy and Society 00, 00, 0â0 Downloaded
 doi:10.1093/cjres/rsz022
-from
 Daron Acemoglua and Pascual Restrepob
 aMIT, Cambridge, MA, USA, daron@mit.edu
 bBoston University, Boston, MA, USA, pascual@bu.edu
