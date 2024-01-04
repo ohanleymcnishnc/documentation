@@ -1,7 +1,6 @@
 BusInfSystEng63(1):5â20(2021)
 https://doi.org/10.1007/s12599-020-00676-7
 Ready or Not, AI Comesâ An Interview Study of Organizational
-AI Readiness Factors
 Jan JoÂ¨hnk â¢ Malte WeiÃert â¢ Katrin Wyrtki
 Abstract Artificial intelligence (AI) offers organizations correspondingindicatorsforAIreadinessassessments,and
 much potential. Considering the manifold application discussesthegeneralimplicationsforAIadoption.Thisisa
